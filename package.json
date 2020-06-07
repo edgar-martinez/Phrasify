@@ -19,11 +19,11 @@
     "quik-server": "^2.0.6",
     "request": "^2.88.0",
     "roboto-fontface": "^0.10.0",
-    "typeahead": "^0.2.2"
-  },
-  "devDependencies": {
+    "typeahead": "^0.2.2",
     "@babel/core": "^7.10.2",
     "@babel/preset-env": "^7.10.2"
+  },
+  "devDependencies": {
   },
   "scripts": {
     "start": "node server.js",
