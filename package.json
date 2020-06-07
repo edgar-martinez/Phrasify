@@ -2,7 +2,7 @@
   "name": "csce470-project",
   "version": "1.0.0",
   "description": "A Spotify application that creates a playlist whose songs in order are as close as possible to an input sentence.",
-  "main": "index.js",
+  "main": "server.js",
   "dependencies": {
     "aphrodite-jss": "^2.1.0",
     "css": "^2.2.4",

@@ -11,8 +11,5 @@ app.settings = {
     websiteFile: "./website.jsx",
     codeFolder: "./code",
     bundlerOptions: {}, // see https://parceljs.org/api.html for options
-    afterServerStarted: () => {
-        console.log(`Server running on http://localhost:${app.settings.port}`)
-    }
 }
 app.start()
