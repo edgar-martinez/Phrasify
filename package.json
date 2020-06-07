@@ -39,5 +39,8 @@
     "ignore": [
       "computer-generated-code/*"
     ]
+  },
+  "engines": {
+    "node": "14.4.0"
   }
 }
